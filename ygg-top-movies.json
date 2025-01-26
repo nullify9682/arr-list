@@ -1,1 +1,209 @@
-[ ]
+[ {
+  "title" : "Un p tit truc en plus",
+  "year" : 2024,
+  "imdb_id" : "tt30795948"
+}, {
+  "title" : "Gladiator II",
+  "year" : 2024,
+  "imdb_id" : "tt9218128"
+}, {
+  "title" : "Oppenheimer",
+  "year" : 2023,
+  "imdb_id" : "tt15398776"
+}, {
+  "title" : "Beetlejuice Beetlejuice",
+  "year" : 2024,
+  "imdb_id" : "tt2049403"
+}, {
+  "title" : "Conclave",
+  "year" : 2024,
+  "imdb_id" : "tt20215234"
+}, {
+  "title" : "Deadpool and Wolverine",
+  "year" : 2024,
+  "imdb_id" : "tt6263850"
+}, {
+  "title" : "Alien Romulus",
+  "year" : 2024,
+  "imdb_id" : "tt18412256"
+}, {
+  "title" : "The Substance",
+  "year" : 2024,
+  "imdb_id" : "tt17526714"
+}, {
+  "title" : "Nosferatu",
+  "year" : 2024,
+  "imdb_id" : "tt5040012"
+}, {
+  "title" : "Anatomie d une chute",
+  "year" : 2023,
+  "imdb_id" : "tt17009710"
+}, {
+  "title" : "The Wild Robot",
+  "year" : 2024,
+  "imdb_id" : "tt29623480"
+}, {
+  "title" : "Indiana Jones And The Dial Of Destiny",
+  "year" : 2023,
+  "imdb_id" : "tt1462764"
+}, {
+  "title" : "Joker Folie a Deux",
+  "year" : 2024,
+  "imdb_id" : "tt11315808"
+}, {
+  "title" : "Dune Part Two",
+  "year" : 2024,
+  "imdb_id" : "tt15239678"
+}, {
+  "title" : "Le Clan",
+  "year" : 2023,
+  "imdb_id" : "tt24156250"
+}, {
+  "title" : "Emilia Perez",
+  "year" : 2024,
+  "imdb_id" : "tt20221436"
+}, {
+  "title" : "Anora",
+  "year" : 2024,
+  "imdb_id" : "tt28607951"
+}, {
+  "title" : "Dune",
+  "year" : 2021,
+  "imdb_id" : "tt1160419"
+}, {
+  "title" : "The Creator",
+  "year" : 2023,
+  "imdb_id" : "tt11858890"
+}, {
+  "title" : "Kraven The Hunter",
+  "year" : 2024,
+  "imdb_id" : "tt8790086"
+}, {
+  "title" : "Megalopolis",
+  "year" : 2024,
+  "imdb_id" : "tt10128846"
+}, {
+  "title" : "Furiosa A Mad Max Saga",
+  "year" : 2024,
+  "imdb_id" : "tt12037194"
+}, {
+  "title" : "Venom The Last Dance",
+  "year" : 2024,
+  "imdb_id" : "tt16366836"
+}, {
+  "title" : "Kingdom of the Planet of the Apes",
+  "year" : 2024,
+  "imdb_id" : "tt11389872"
+}, {
+  "title" : "Barbie",
+  "year" : 2023,
+  "imdb_id" : "tt1517268"
+}, {
+  "title" : "Largo Winch Le Prix de l argent",
+  "year" : 2024,
+  "imdb_id" : "tt23049322"
+}, {
+  "title" : "Wolfs",
+  "year" : 2024,
+  "imdb_id" : "tt14257582"
+}, {
+  "title" : "The Lord of the Rings The War of the Rohirrim",
+  "year" : 2024,
+  "imdb_id" : "tt14824600"
+}, {
+  "title" : "Heretic",
+  "year" : 2024,
+  "imdb_id" : "tt28015403"
+}, {
+  "title" : "Borderlands",
+  "year" : 2024,
+  "imdb_id" : "tt4978420"
+}, {
+  "title" : "Mission Impossible Dead Reckoning Part One",
+  "year" : 2023,
+  "imdb_id" : "tt9603212"
+}, {
+  "title" : "Top Gun Maverick",
+  "year" : 2022,
+  "imdb_id" : "tt1745960"
+}, {
+  "title" : "Poor Things",
+  "year" : 2023,
+  "imdb_id" : "tt14230458"
+}, {
+  "title" : "Wicked",
+  "year" : 2024,
+  "imdb_id" : "tt1262426"
+}, {
+  "title" : "IF",
+  "year" : 2024,
+  "imdb_id" : "tt11152168"
+}, {
+  "title" : "Le Regne Animal",
+  "year" : 2023,
+  "imdb_id" : "tt16606592"
+}, {
+  "title" : "Elemental",
+  "year" : 2023,
+  "imdb_id" : "tt15789038"
+}, {
+  "title" : "Tetris",
+  "year" : 2023,
+  "imdb_id" : "tt12758060"
+}, {
+  "title" : "Asterix et Obelix L Empire du Milieu",
+  "year" : 2023,
+  "imdb_id" : "tt11210390"
+}, {
+  "title" : "Bad Boys Ride or Die",
+  "year" : 2024,
+  "imdb_id" : "tt4919268"
+}, {
+  "title" : "Le Larbin",
+  "year" : 2024,
+  "imdb_id" : "tt27348699"
+}, {
+  "title" : "Matrix Resurrections",
+  "year" : 2021,
+  "imdb_id" : "tt10838180"
+}, {
+  "title" : "Cocorico",
+  "year" : 2024,
+  "imdb_id" : "tt19381382"
+}, {
+  "title" : "Civil War",
+  "year" : 2024,
+  "imdb_id" : "tt17279496"
+}, {
+  "title" : "Twisters",
+  "year" : 2024,
+  "imdb_id" : "tt12584954"
+}, {
+  "title" : "Adieu les cons",
+  "year" : 2020,
+  "imdb_id" : "tt10196398"
+}, {
+  "title" : "Alarum",
+  "year" : 2025,
+  "imdb_id" : "tt31456973"
+}, {
+  "title" : "Ghostbusters Frozen Empire",
+  "year" : 2024,
+  "imdb_id" : "tt21235248"
+}, {
+  "title" : "Le Jardinier",
+  "year" : 2025,
+  "imdb_id" : "tt30973842"
+}, {
+  "title" : "Napoleon",
+  "year" : 2023,
+  "imdb_id" : "tt13287846"
+}, {
+  "title" : "Les Trois Mousquetaires D Artagnan",
+  "year" : 2023,
+  "imdb_id" : "tt12672536"
+}, {
+  "title" : "A Man Called Otto",
+  "year" : 2022,
+  "imdb_id" : "tt7405458"
+} ]
