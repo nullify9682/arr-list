@@ -3,13 +3,13 @@
   "year" : null,
   "tvdbid" : 383275
 }, {
-  "title" : "Kaamelott",
-  "year" : 2005,
-  "tvdbid" : 79175
-}, {
   "title" : "Severance",
   "year" : 2022,
   "tvdbid" : 371980
+}, {
+  "title" : "Kaamelott",
+  "year" : 2005,
+  "tvdbid" : 79175
 }, {
   "title" : "Fallout",
   "year" : 2024,
