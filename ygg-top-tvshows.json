@@ -11,13 +11,13 @@
   "year" : 2005,
   "tvdbid" : 79175
 }, {
-  "title" : "Fallout",
-  "year" : 2024,
-  "tvdbid" : 416744
-}, {
   "title" : "Severance",
   "year" : null,
   "tvdbid" : 371980
+}, {
+  "title" : "Fallout",
+  "year" : 2024,
+  "tvdbid" : 416744
 }, {
   "title" : "Silo",
   "year" : null,
