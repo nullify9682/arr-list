@@ -7,10 +7,6 @@
   "year" : 2022,
   "tvdbid" : 371980
 }, {
-  "title" : "Solo Leveling",
-  "year" : null,
-  "tvdbid" : 389597
-}, {
   "title" : "Severance",
   "year" : null,
   "tvdbid" : 371980
@@ -26,6 +22,10 @@
   "title" : "Kaamelott",
   "year" : 2005,
   "tvdbid" : 79175
+}, {
+  "title" : "Solo Leveling",
+  "year" : null,
+  "tvdbid" : 389597
 }, {
   "title" : "Fallout",
   "year" : 2024,
