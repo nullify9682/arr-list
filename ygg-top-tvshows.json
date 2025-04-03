@@ -35,11 +35,11 @@
   "year" : null,
   "tvdbid" : 403245
 }, {
-  "title" : "Koh-Lanta",
-  "year" : null,
-  "tvdbid" : 111421
-}, {
   "title" : "Shōgun",
   "year" : 2024,
   "tvdbid" : 392573
+}, {
+  "title" : "Koh-Lanta",
+  "year" : null,
+  "tvdbid" : 111421
 } ]
