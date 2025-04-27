@@ -1,1 +1,49 @@
-[ ]
+[ {
+  "title" : "Bref",
+  "year" : null,
+  "tvdbid" : 251562
+}, {
+  "title" : "Severance",
+  "year" : 2022,
+  "tvdbid" : 371980
+}, {
+  "title" : "The Last of Us",
+  "year" : null,
+  "tvdbid" : 392256
+}, {
+  "title" : "Adolescence",
+  "year" : null,
+  "tvdbid" : 452467
+}, {
+  "title" : "Kaamelott",
+  "year" : 2005,
+  "tvdbid" : 79175
+}, {
+  "title" : "Squid Game: The Challenge",
+  "year" : null,
+  "tvdbid" : 421260
+}, {
+  "title" : "Fallout",
+  "year" : 2024,
+  "tvdbid" : 416744
+}, {
+  "title" : "Severance",
+  "year" : null,
+  "tvdbid" : 371980
+}, {
+  "title" : "Black Mirror",
+  "year" : null,
+  "tvdbid" : 253463
+}, {
+  "title" : "Silo",
+  "year" : null,
+  "tvdbid" : 403245
+}, {
+  "title" : "Shōgun",
+  "year" : 2024,
+  "tvdbid" : 392573
+}, {
+  "title" : "Solo Leveling",
+  "year" : null,
+  "tvdbid" : 389597
+} ]
