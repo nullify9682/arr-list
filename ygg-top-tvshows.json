@@ -3,13 +3,13 @@
   "year" : null,
   "tvdbid" : 251562
 }, {
-  "title" : "Severance",
-  "year" : 2022,
-  "tvdbid" : 371980
-}, {
   "title" : "The Last of Us",
   "year" : null,
   "tvdbid" : 392256
+}, {
+  "title" : "Severance",
+  "year" : 2022,
+  "tvdbid" : 371980
 }, {
   "title" : "Adolescence",
   "year" : null,
@@ -31,13 +31,13 @@
   "year" : null,
   "tvdbid" : 371980
 }, {
-  "title" : "Black Mirror",
-  "year" : null,
-  "tvdbid" : 253463
-}, {
   "title" : "Silo",
   "year" : null,
   "tvdbid" : 403245
+}, {
+  "title" : "Black Mirror",
+  "year" : null,
+  "tvdbid" : 253463
 }, {
   "title" : "Solo Leveling",
   "year" : null,
