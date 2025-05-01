@@ -31,6 +31,10 @@
   "year" : 2024,
   "imdb_id" : "tt6263850"
 }, {
+  "title" : "Alien: Romulus",
+  "year" : 2024,
+  "imdb_id" : "tt18412256"
+}, {
   "title" : "The Substance",
   "year" : 2024,
   "imdb_id" : "tt17526714"
@@ -38,10 +42,6 @@
   "title" : "Anatomy of a Fall",
   "year" : 2023,
   "imdb_id" : "tt17009710"
-}, {
-  "title" : "Alien: Romulus",
-  "year" : 2024,
-  "imdb_id" : "tt18412256"
 }, {
   "title" : "Novocaine",
   "year" : 2025,
@@ -71,29 +71,21 @@
   "year" : 2021,
   "imdb_id" : "tt1160419"
 }, {
-  "title" : "The Creator",
-  "year" : 2023,
-  "imdb_id" : "tt11858890"
-}, {
   "title" : "Anora",
   "year" : 2024,
   "imdb_id" : "tt28607951"
+}, {
+  "title" : "The Creator",
+  "year" : 2023,
+  "imdb_id" : "tt11858890"
 }, {
   "title" : "Joker: Folie à Deux",
   "year" : 2024,
   "imdb_id" : "tt11315808"
 }, {
-  "title" : "Captain America: Brave New World",
-  "year" : 2025,
-  "imdb_id" : "tt14513804"
-}, {
   "title" : "Barbie",
   "year" : 2023,
   "imdb_id" : "tt1517268"
-}, {
-  "title" : "Furiosa: A Mad Max Saga",
-  "year" : 2024,
-  "imdb_id" : "tt12037194"
 }, {
   "title" : "Nosferatu",
   "year" : 2024,
@@ -103,6 +95,14 @@
   "year" : 2025,
   "imdb_id" : "tt30988739"
 }, {
+  "title" : "Furiosa: A Mad Max Saga",
+  "year" : 2024,
+  "imdb_id" : "tt12037194"
+}, {
+  "title" : "Captain America: Brave New World",
+  "year" : 2025,
+  "imdb_id" : "tt14513804"
+}, {
   "title" : "Monsieur Aznavour",
   "year" : 2024,
   "imdb_id" : "tt26743414"
@@ -111,17 +111,9 @@
   "year" : 2024,
   "imdb_id" : "tt10128846"
 }, {
-  "title" : "Paddington in Peru",
-  "year" : 2024,
-  "imdb_id" : "tt5822536"
-}, {
   "title" : "Kingdom of the Planet of the Apes",
   "year" : 2024,
   "imdb_id" : "tt11389872"
-}, {
-  "title" : "The Brutalist",
-  "year" : 2024,
-  "imdb_id" : "tt8999762"
 }, {
   "title" : "Top Gun: Maverick",
   "year" : 2022,
@@ -131,9 +123,17 @@
   "year" : 2024,
   "imdb_id" : "tt10501214"
 }, {
+  "title" : "Paddington in Peru",
+  "year" : 2024,
+  "imdb_id" : "tt5822536"
+}, {
   "title" : "Mission: Impossible - Dead Reckoning Part One",
   "year" : 2023,
   "imdb_id" : "tt9603212"
+}, {
+  "title" : "The Brutalist",
+  "year" : 2024,
+  "imdb_id" : "tt8999762"
 }, {
   "title" : "Kraven the Hunter",
   "year" : 2024,
@@ -143,14 +143,6 @@
   "year" : 2023,
   "imdb_id" : "tt15789038"
 }, {
-  "title" : "Asterix & Obelix: The Middle Kingdom",
-  "year" : 2023,
-  "imdb_id" : "tt11210390"
-}, {
-  "title" : "A Complete Unknown",
-  "year" : 2024,
-  "imdb_id" : "tt11563598"
-}, {
   "title" : "Venom: The Last Dance",
   "year" : 2024,
   "imdb_id" : "tt16366836"
@@ -158,6 +150,14 @@
   "title" : "Tetris",
   "year" : 2023,
   "imdb_id" : "tt12758060"
+}, {
+  "title" : "A Complete Unknown",
+  "year" : 2024,
+  "imdb_id" : "tt11563598"
+}, {
+  "title" : "Asterix & Obelix: The Middle Kingdom",
+  "year" : 2023,
+  "imdb_id" : "tt11210390"
 }, {
   "title" : "Poor Things",
   "year" : 2023,
@@ -167,13 +167,13 @@
   "year" : 2024,
   "imdb_id" : "tt14257582"
 }, {
+  "title" : "Havoc",
+  "year" : 2025,
+  "imdb_id" : "tt14123284"
+}, {
   "title" : "The Alto Knights",
   "year" : 2025,
   "imdb_id" : "tt21815562"
-}, {
-  "title" : "The Matrix Resurrections",
-  "year" : 2021,
-  "imdb_id" : "tt10838180"
 }, {
   "title" : "The Animal Kingdom",
   "year" : 2023,
@@ -183,15 +183,15 @@
   "year" : 2025,
   "imdb_id" : "tt32063050"
 }, {
-  "title" : "Not Without My Shrink",
-  "year" : 2024,
-  "imdb_id" : "tt27821575"
+  "title" : "The Matrix Resurrections",
+  "year" : 2021,
+  "imdb_id" : "tt10838180"
 }, {
   "title" : "The Electric State",
   "year" : 2025,
   "imdb_id" : "tt7766378"
 }, {
-  "title" : "Bye Bye Morons",
-  "year" : 2020,
-  "imdb_id" : "tt10196398"
+  "title" : "Not Without My Shrink",
+  "year" : 2024,
+  "imdb_id" : "tt27821575"
 } ]
