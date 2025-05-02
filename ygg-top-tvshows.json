@@ -15,25 +15,25 @@
   "year" : null,
   "tvdbid" : 400716
 }, {
-  "title" : "Adolescence",
-  "year" : null,
-  "tvdbid" : 452467
-}, {
   "title" : "Kaamelott",
   "year" : 2005,
   "tvdbid" : 79175
+}, {
+  "title" : "Adolescence",
+  "year" : null,
+  "tvdbid" : 452467
 }, {
   "title" : "Squid Game: The Challenge",
   "year" : null,
   "tvdbid" : 421260
 }, {
-  "title" : "Fallout",
-  "year" : 2024,
-  "tvdbid" : 416744
-}, {
   "title" : "Severance",
   "year" : null,
   "tvdbid" : 371980
+}, {
+  "title" : "Fallout",
+  "year" : 2024,
+  "tvdbid" : 416744
 }, {
   "title" : "Black Mirror",
   "year" : null,
