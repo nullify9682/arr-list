@@ -35,19 +35,19 @@
   "year" : 2024,
   "tvdbid" : 416744
 }, {
-  "title" : "Black Mirror",
-  "year" : null,
-  "tvdbid" : 253463
-}, {
   "title" : "Silo",
   "year" : null,
   "tvdbid" : 403245
 }, {
-  "title" : "Shōgun",
-  "year" : 2024,
-  "tvdbid" : 392573
+  "title" : "Black Mirror",
+  "year" : null,
+  "tvdbid" : 253463
 }, {
   "title" : "Andor",
   "year" : null,
   "tvdbid" : 393189
+}, {
+  "title" : "Shōgun",
+  "year" : 2024,
+  "tvdbid" : 392573
 } ]
