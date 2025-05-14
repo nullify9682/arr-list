@@ -35,6 +35,10 @@
   "year" : 2024,
   "tvdbid" : 416744
 }, {
+  "title" : "Andor",
+  "year" : null,
+  "tvdbid" : 393189
+}, {
   "title" : "Silo",
   "year" : null,
   "tvdbid" : 403245
@@ -43,15 +47,7 @@
   "year" : null,
   "tvdbid" : 253463
 }, {
-  "title" : "Andor",
-  "year" : null,
-  "tvdbid" : 393189
-}, {
   "title" : "The Handmaid's Tale",
   "year" : null,
   "tvdbid" : 321239
-}, {
-  "title" : "Shōgun",
-  "year" : 2024,
-  "tvdbid" : 392573
 } ]
