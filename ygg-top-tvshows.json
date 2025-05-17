@@ -27,13 +27,13 @@
   "year" : null,
   "tvdbid" : 421260
 }, {
-  "title" : "Fallout",
-  "year" : 2024,
-  "tvdbid" : 416744
-}, {
   "title" : "Severance",
   "year" : null,
   "tvdbid" : 371980
+}, {
+  "title" : "Fallout",
+  "year" : 2024,
+  "tvdbid" : 416744
 }, {
   "title" : "Silo",
   "year" : null,
@@ -46,8 +46,4 @@
   "title" : "Black Mirror",
   "year" : null,
   "tvdbid" : 253463
-}, {
-  "title" : "Shōgun",
-  "year" : 2024,
-  "tvdbid" : 392573
 } ]
