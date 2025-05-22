@@ -27,21 +27,21 @@
   "year" : null,
   "tvdbid" : 421260
 }, {
-  "title" : "Severance",
-  "year" : null,
-  "tvdbid" : 371980
-}, {
   "title" : "Fallout",
   "year" : 2024,
   "tvdbid" : 416744
 }, {
-  "title" : "The Handmaid's Tale",
+  "title" : "Severance",
   "year" : null,
-  "tvdbid" : 321239
+  "tvdbid" : 371980
 }, {
   "title" : "Silo",
   "year" : null,
   "tvdbid" : 403245
+}, {
+  "title" : "The Handmaid's Tale",
+  "year" : null,
+  "tvdbid" : 321239
 }, {
   "title" : "Black Mirror",
   "year" : null,
