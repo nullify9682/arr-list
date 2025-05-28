@@ -27,13 +27,13 @@
   "year" : null,
   "tvdbid" : 421260
 }, {
-  "title" : "Fallout",
-  "year" : 2024,
-  "tvdbid" : 416744
-}, {
   "title" : "Severance",
   "year" : null,
   "tvdbid" : 371980
+}, {
+  "title" : "Fallout",
+  "year" : 2024,
+  "tvdbid" : 416744
 }, {
   "title" : "The Handmaid's Tale",
   "year" : null,
@@ -43,11 +43,11 @@
   "year" : null,
   "tvdbid" : 403245
 }, {
-  "title" : "Black Mirror",
-  "year" : null,
-  "tvdbid" : 253463
-}, {
   "title" : "Andor",
   "year" : null,
   "tvdbid" : 393189
+}, {
+  "title" : "Black Mirror",
+  "year" : null,
+  "tvdbid" : 253463
 } ]
