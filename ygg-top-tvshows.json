@@ -7,13 +7,13 @@
   "year" : null,
   "tvdbid" : 400716
 }, {
-  "title" : "The Last of Us",
-  "year" : null,
-  "tvdbid" : 392256
-}, {
   "title" : "Severance",
   "year" : 2022,
   "tvdbid" : 371980
+}, {
+  "title" : "The Last of Us",
+  "year" : null,
+  "tvdbid" : 392256
 }, {
   "title" : "Kaamelott",
   "year" : 2005,
@@ -27,13 +27,13 @@
   "year" : null,
   "tvdbid" : 421260
 }, {
-  "title" : "Severance",
-  "year" : null,
-  "tvdbid" : 371980
-}, {
   "title" : "Fallout",
   "year" : 2024,
   "tvdbid" : 416744
+}, {
+  "title" : "Severance",
+  "year" : null,
+  "tvdbid" : 371980
 }, {
   "title" : "The Handmaid's Tale",
   "year" : null,
