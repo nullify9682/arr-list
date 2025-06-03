@@ -23,13 +23,13 @@
   "year" : null,
   "tvdbid" : 452467
 }, {
-  "title" : "Squid Game: The Challenge",
-  "year" : null,
-  "tvdbid" : 421260
-}, {
   "title" : "Severance",
   "year" : null,
   "tvdbid" : 371980
+}, {
+  "title" : "Squid Game: The Challenge",
+  "year" : null,
+  "tvdbid" : 421260
 }, {
   "title" : "Fallout",
   "year" : 2024,
@@ -39,13 +39,13 @@
   "year" : null,
   "tvdbid" : 403245
 }, {
-  "title" : "Rick and Morty",
-  "year" : null,
-  "tvdbid" : 275274
-}, {
   "title" : "Andor",
   "year" : null,
   "tvdbid" : 393189
+}, {
+  "title" : "Rick and Morty",
+  "year" : null,
+  "tvdbid" : 275274
 }, {
   "title" : "The Handmaid's Tale",
   "year" : null,
