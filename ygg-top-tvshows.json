@@ -35,13 +35,13 @@
   "year" : 2024,
   "tvdbid" : 416744
 }, {
-  "title" : "Silo",
-  "year" : null,
-  "tvdbid" : 403245
-}, {
   "title" : "Andor",
   "year" : null,
   "tvdbid" : 393189
+}, {
+  "title" : "Silo",
+  "year" : null,
+  "tvdbid" : 403245
 }, {
   "title" : "Rick and Morty",
   "year" : null,
