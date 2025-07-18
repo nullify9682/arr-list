@@ -87,6 +87,10 @@
   "year" : 2024,
   "imdb_id" : "tt20221436"
 }, {
+  "title" : "How to Train Your Dragon",
+  "year" : 2025,
+  "imdb_id" : "tt26743210"
+}, {
   "title" : "The Creator",
   "year" : 2023,
   "imdb_id" : "tt11858890"
@@ -118,10 +122,6 @@
   "title" : "How to Make a Killing",
   "year" : 2025,
   "imdb_id" : "tt33984333"
-}, {
-  "title" : "How to Train Your Dragon",
-  "year" : 2025,
-  "imdb_id" : "tt26743210"
 }, {
   "title" : "Joker: Folie à Deux",
   "year" : 2024,
