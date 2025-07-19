@@ -79,6 +79,10 @@
   "year" : 2025,
   "imdb_id" : "tt29603959"
 }, {
+  "title" : "How to Train Your Dragon",
+  "year" : 2025,
+  "imdb_id" : "tt26743210"
+}, {
   "title" : "Dune: Part Two",
   "year" : 2024,
   "imdb_id" : "tt15239678"
@@ -86,10 +90,6 @@
   "title" : "Emilia Pérez",
   "year" : 2024,
   "imdb_id" : "tt20221436"
-}, {
-  "title" : "How to Train Your Dragon",
-  "year" : 2025,
-  "imdb_id" : "tt26743210"
 }, {
   "title" : "The Creator",
   "year" : 2023,
