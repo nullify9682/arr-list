@@ -63,6 +63,10 @@
   "year" : 2023,
   "imdb_id" : "tt17009710"
 }, {
+  "title" : "How to Train Your Dragon",
+  "year" : 2025,
+  "imdb_id" : "tt26743210"
+}, {
   "title" : "Indiana Jones and the Dial of Destiny",
   "year" : 2023,
   "imdb_id" : "tt1462764"
@@ -78,10 +82,6 @@
   "title" : "Novocaine",
   "year" : 2025,
   "imdb_id" : "tt29603959"
-}, {
-  "title" : "How to Train Your Dragon",
-  "year" : 2025,
-  "imdb_id" : "tt26743210"
 }, {
   "title" : "Dune: Part Two",
   "year" : 2024,
